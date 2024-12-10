@@ -1,11 +1,11 @@
 # **Public Projects**
 Analytical project portfolio to demonstrate technical proficiencies.
-1. Python Generally - Focus on Pandas. Numpy is applicable
+1. Python Generally - Focus on Pandas. Numpy *if* applicable
 2. SQL + BigQuery - Will flash BigQuery syntax and structure & do some manipulation IN Pythonic using BigQuerySQL queries.
 3. MatPlotLib + SeaBorne - Get some data visualizations going for the housing data
 4. Regression Modeling - Maybe.
 
-For this project, I'll be exploring housing prices within a 3 decade span from roughly 1990 - 2024, starting with Denmark, for no specific reason other than it was available. 
+For this project, I'll be exploring housing prices within a 3 decade span from roughly 1990 - 2024, starting with Denmark, for no specific reason other than it was available & interesting. 
 
 I'll be operating outside of Kaggle as well, using open data API's & whereever else I can find housing data to aggregate and create models to glean insight.
 
